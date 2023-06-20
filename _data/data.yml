@@ -1,20 +1,20 @@
-name: John Doe
+name: Erick Duarte
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: erickblyat@gmail.com
+  github: Gatemoose
+  linkedin: 
   phone: 
   gitlab: 
-  twitter: 
+  twitter: @gatemoose
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Portuguese Brazilian
+  - idiom: Japanese
 
 education:
   - degree: MSc in Informatics
